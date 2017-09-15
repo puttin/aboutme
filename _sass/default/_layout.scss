@@ -1,0 +1,21 @@
+/**
+ * Page content
+ */
+.page-content {
+  padding: $spacing-unit 0;
+}
+
+/**
+ * Content Header
+ */
+.content-header {
+  height: 10vh;
+  
+  @include media-query($on-laptop) {
+    height: 7.5vh;
+  }
+  
+  @include media-query($on-palm) {
+    height: 5vh;
+  }
+}
