@@ -20,7 +20,7 @@ Please feel free to contact me.
 * [StackExchange: users/1360586](https://stackexchange.com/users/1360586/puttin?tab=accounts)
 * [LinkedIn: yzwang](https://www.linkedin.com/in/yzwang/)
 
-* [Twitter: @puttinwong](https://twitter.com/puttinwong)
+* ~~Twitter~~
 * [Weibo: @_puttin](https://weibo.com/u/1005051677220740)
 
 * [Spotify: @puttinwong](https://open.spotify.com/user/puttinwong)
