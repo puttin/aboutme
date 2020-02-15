@@ -2,3 +2,7 @@ plugins:
   - jekyll-seo-tag
 
 title: About Puttin
+
+# if we stick with GitHub Pages' Jekyll, then only GFM or Kramdown is acceptable
+# see also `restrict_and_config_markdown_processor` in gem 'github-pages'
+markdown: GFM
