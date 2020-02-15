@@ -14,16 +14,16 @@ Please feel free to contact me.
 
 ## Links
 
-* [Mail: yzwang.nj@gmail.com](mailto: yzwang.nj@gmail.com)
+* Mail: [yzwang.nj@gmail.com](mailto:yzwang.nj@gmail.com)
 
-* [GitHub: @puttin](https://github.com/puttin)
-* [StackExchange: users/1360586](https://stackexchange.com/users/1360586/puttin?tab=accounts)
-* [LinkedIn: yzwang](https://www.linkedin.com/in/yzwang/)
+* GitHub: [@puttin](https://github.com/puttin)
+* StackExchange: [users/1360586](https://stackexchange.com/users/1360586/puttin?tab=accounts)
+* LinkedIn: [yzwang](https://www.linkedin.com/in/yzwang/)
 
 * ~~Twitter~~
-* [Weibo: @_puttin](https://weibo.com/u/1005051677220740)
+* Weibo: [@_puttin](https://weibo.com/u/1005051677220740)
 
-* [Spotify: @puttinwong](https://open.spotify.com/user/puttinwong)
+* Spotify: [@puttinwong](https://open.spotify.com/user/puttinwong)
 
-* [Steam: buxia8000](https://steamcommunity.com/id/buxia8000)
-* [PSN: buxia8000](https://psnprofiles.com/buxia8000)
+* Steam: [buxia8000](https://steamcommunity.com/id/buxia8000)
+* PSN: [buxia8000](https://psnprofiles.com/buxia8000)
