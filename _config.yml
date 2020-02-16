@@ -10,3 +10,5 @@ title: About Puttin
 # maybe the easier way is generating static site directly then publishing to branch 'gh-pages' 
 # instead of using Github's Jekyll version
 markdown: CommonMarkGhPages
+commonmark:
+  extensions: ["strikethrough"]
