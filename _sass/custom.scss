@@ -1,0 +1,42 @@
+@mixin screen-and-hover {
+    @media screen and (hover: hover) {
+        @content;
+    }
+}
+
+.hover-img a > img {
+    @include screen-and-hover {
+        display: none;
+    }
+    @media (hover: none) {
+        display: none;
+    }
+    @mixin block-display {
+        display: block;
+        white-space: pre;
+    }
+    @media print {
+        @include block-display;
+    }
+    &.img-toggle-block {
+        @include block-display;
+    }
+}
+
+.hover-img a:hover > img {
+    @include screen-and-hover {
+        display: block;
+        transform: translate(200px, -50%);
+        position: absolute;
+        z-index: 1;
+    }
+}
+
+span.img-toggle {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 0.5rem;
+    @include relative-font-size(0.9);
+    border: 1px dashed lightgray;
+    color: slategray;
+}

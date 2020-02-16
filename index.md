@@ -25,5 +25,10 @@ Please feel free to contact me.
 
 * Spotify: [@puttinwong](https://open.spotify.com/user/puttinwong)
 
+<div class="hover-img">
+
 * Steam: [buxia8000](https://steamcommunity.com/id/buxia8000)
-* PSN: [buxia8000](https://psnprofiles.com/buxia8000)
+* PSN: [buxia8000![](https://card.psnprofiles.com/2/buxia8000.png)](https://psnprofiles.com/buxia8000)
+
+</div>
+<script type="text/javascript" src="/assets/hover-img.js"></script>
