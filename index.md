@@ -28,7 +28,8 @@ Please feel free to contact me.
 <div class="hover-img">
 
 * Steam: [buxia8000](https://steamcommunity.com/id/buxia8000)
-* PSN: [buxia8000![](https://card.psnprofiles.com/2/buxia8000.png)](https://psnprofiles.com/buxia8000)
+* PSN: [buxia8000![PSN Profile Card](data:,)](https://psnprofiles.com/buxia8000)
 
 </div>
+<lazy-hover-img src="https://card.psnprofiles.com/2/buxia8000.png" alt="PSN Profile Card"></lazy-hover-img>
 <script type="text/javascript" src="/assets/hover-img.js"></script>
